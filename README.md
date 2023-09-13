@@ -1,4 +1,4 @@
-# ExcelDocumentCheck(Проверка документов)
+# ExcelDocumentCheck
 
 
 ## Определение проблемы:
